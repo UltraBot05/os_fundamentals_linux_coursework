@@ -41,4 +41,4 @@ The script should:
 
 Display the password strength category
 
-- PLEASE CHECK files.sh FOR Q1, AND pswdchecker.sh FOR Q2.
+- PLEASE CHECK [files.sh](https://github.com/UltraBot05/os_fundamentals_linux_coursework/blob/main/files.sh) FOR Q1, AND [pswdchecker.sh](https://github.com/UltraBot05/os_fundamentals_linux_coursework/blob/main/pswdchecker.sh) FOR Q2.
