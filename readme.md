@@ -17,27 +17,27 @@ The script should:
 1. Prompt the user to enter a password
 2. Check if the password meets the following criteria:
    
-At least 8 characters long: 2 point
+   At least 8 characters long: 2 point
 
-Contains at least one uppercase letter: 2 points
+   Contains at least one uppercase letter: 2 points
 
-Contains at least one lowercase letter: 2 points
+   Contains at least one lowercase letter: 2 points
 
-Contains at least one digit: 2 points
+   Contains at least one digit: 2 points
 
-Contains at least two special character (!, @, #, $, %, ^, &, *, _, +, -, =, [, ], {, }, |, :, <, >, ?, /): 2 points
+   Contains at least two special character (!, @, #, $, %, ^, &, *, _, +, -, =, [, ], {, }, |, :, <, >, ?, /): 2 points
 
 3. Provide score on the password strength, for each of the category below assign a score out of ten:
    
-Very weak: Does not meet any criteria
+   Very weak: Does not meet any criteria
 
-Weak: Meets only one criterion
+   Weak: Meets only one criterion
 
-Fair: Meets two criteria
-
-Strong: Meets three criteria
-
-Excellent: Meets four criteria
+   Fair: Meets two criteria
+   
+   Strong: Meets three criteria
+   
+   Excellent: Meets four criteria
 
 Display the password strength category
 
